@@ -3,14 +3,19 @@
 # Bisektion Vorlage
 
 ## Beschreibung
-Dieses Projekt dient als Vorlage für ein kleines Softwareentwicklungs- und Projektmanagement-Projekt. Es enthält verschiedene Aufgaben, die jeweils in separaten Dateien bearbeitet werden.
+Dieses Projekt implementiert verschiedene numerische Verfahren zur Bestimmung von Nullstellen:
+- Bisektionsmethode (Aufgabe 5)
+- Regula Falsi und Newton-Raphson (Aufgabe 6)
+- Visualisierung mit matplotlib (Aufgabe 7)
+- Genauigkeitstests (Aufgabe 8)
+- Anwendungsbeispiel: Kettenlinie (Aufgabe 9)
 
 ## Aufgaben
-- Aufgabe5.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe6.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe7.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe8.py: [Kurze Beschreibung der Aufgabe]
-- Aufgabe9.py: [Kurze Beschreibung der Aufgabe]
+- Aufgabe5.py: [Löst mithilfe des Bisektionsverfahren]
+- Aufgabe6.py: [Löst mit Regula Falsi und Newton.Raphson (+ Vergleich mit händischen Lösungen)]
+- Aufgabe7.py: [Visualisierung]
+- Aufgabe8.py: [Genauigkeitstests]
+- Aufgabe9.py: [Praxische Anwendung (+ mögliche Ausführung aller Scripte(derzeit deaktiviert))]
 
 ## Voraussetzungen
 - Python 3.x
